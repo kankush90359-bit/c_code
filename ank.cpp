@@ -16,8 +16,6 @@ int main()
    }
    if(a==0 && b==0)
     cout<<"indetermine it is not exist";
-    else
-    cout<<ans;
 
 
     return 0;
